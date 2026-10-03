@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="AvIDAd" name="NoteControl" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0">
   <MAINGROUP id="n1Ay5X" name="NoteControl">
     <GROUP id="{0CF0B9CD-7F78-DF0C-AC5E-40C02D4E518C}" name="Source">
       <FILE id="unDuvW" name="PluginProcessor.cpp" compile="1" resource="0"

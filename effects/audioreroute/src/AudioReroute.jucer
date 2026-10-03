@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="HyC6Ct" name="AudioReroute" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.2">
   <MAINGROUP id="3LBtKN" name="AudioReroute">
     <GROUP id="{13668257-5250-DEF9-1799-E2786D374842}" name="Source">
       <FILE id="dkYtMV" name="PluginProcessor.cpp" compile="1" resource="0"

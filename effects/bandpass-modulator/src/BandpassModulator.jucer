@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="muhVI8" name="BandpassModulator" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0">
   <MAINGROUP id="WSlmnV" name="BandpassModulator">
     <GROUP id="{F893697B-5904-8119-4F30-9FFEA518F32C}" name="Source">
       <FILE id="FeKORd" name="PluginProcessor.cpp" compile="1" resource="0"

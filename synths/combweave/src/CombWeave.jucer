@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="ECNa5f" name="CombWeave" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn">
   <MAINGROUP id="bqn1jJ" name="CombWeave">
     <GROUP id="{D3979317-DE23-F074-9D0B-7D52B20CF1CB}" name="Source">
       <FILE id="qVbwYe" name="PluginProcessor.cpp" compile="1" resource="0"

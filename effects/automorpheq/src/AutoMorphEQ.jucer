@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="aRUhR4" name="AutoMorphEQ" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0">
   <MAINGROUP id="IWrXPv" name="AutoMorphEQ">
     <GROUP id="{39D5E085-3964-B50A-F03B-971722F244F5}" name="Source">
       <FILE id="qH3MB9" name="PluginProcessor.cpp" compile="1" resource="0"

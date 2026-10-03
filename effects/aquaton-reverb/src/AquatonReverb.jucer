@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="gMBwUY" name="AquatonReverb" projectType="audioplug" useAppConfig="0"
+<JUCERPROJECT id="gMBwUY" name="Aquaton" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0">
   <MAINGROUP id="uBMGhy" name="AquatonReverb">
     <GROUP id="{681D06BD-2AA3-99DA-C946-DC59C0996DAE}" name="Source">
       <FILE id="CCRnGE" name="PluginProcessor.cpp" compile="1" resource="0"

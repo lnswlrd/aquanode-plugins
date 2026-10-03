@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="Qqx9jR" name="FM12" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="2.1" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn">
   <MAINGROUP id="7Eef1f" name="FM12">
     <GROUP id="{2D3B41A3-DBD1-99B3-64F7-3BB387D08058}" name="Source">
       <FILE id="SWt6vw" name="PluginProcessor.cpp" compile="1" resource="0"

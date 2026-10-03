@@ -4,7 +4,7 @@ PATH_TO_RUBBERBAND_FOLDER = "C:/Program Files/Rubberband"
 
 <JUCERPROJECT id="rg5GuI" name="AudioStretcher" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              pluginFormats="buildStandalone,buildVST3">
+              pluginFormats="buildStandalone,buildVST3" version="1.0.0">
   <MAINGROUP id="QhJDLb" name="AudioStretcher">
     <GROUP id="{BAA645AA-3DC7-E025-3074-918A5D1B385A}" name="Source">
       <FILE id="Eg8Jtt" name="PluginProcessor.cpp" compile="1" resource="0"

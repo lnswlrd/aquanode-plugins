@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="Uif6su" name="SpringerSpringReverb" projectType="audioplug" useAppConfig="0"
+<JUCERPROJECT id="Uif6su" name="Springer" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0">
   <MAINGROUP id="VAlmiY" name="SpringerSpringReverb">
     <GROUP id="{B858F9A3-E247-CB2C-083E-B8CB37F0A72E}" name="Source">
       <FILE id="6StPAh" name="PluginProcessor.cpp" compile="1" resource="0"

@@ -4,7 +4,7 @@
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
               companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3"
               pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn"
-              pluginCode="phsc" pluginManufacturerCode="phos">
+              pluginCode="phsc" pluginManufacturerCode="phos" version="1.0.0">
   <MAINGROUP id="Uj4APg" name="PhizmOsc">
     <GROUP id="{13E6373C-8422-90BC-DC38-1DC4D70A569A}" name="Source">
       <FILE id="fijQqK" name="PhizmOscWaveFactory.cpp" compile="1" resource="0"

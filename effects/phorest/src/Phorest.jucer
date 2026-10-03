@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="pRtoZm" name="Phorest" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0">
   <MAINGROUP id="jbcpEN" name="Phorest">
     <GROUP id="{2ED6CFC7-403D-75E1-73E4-EAEDE5FE878F}" name="Source">
       <FILE id="OprCeT" name="PluginProcessor.cpp" compile="1" resource="0"

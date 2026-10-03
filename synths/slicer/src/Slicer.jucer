@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="Lublqd" name="Slicer" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.3" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn">
   <MAINGROUP id="iVAHhV" name="Slicer">
     <GROUP id="{2FEB3E71-9E01-FCD3-FE22-A4248AC9ED33}" name="Source">
       <FILE id="2PP4XJ" name="PluginProcessor.cpp" compile="1" resource="0"

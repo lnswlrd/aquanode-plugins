@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="Mc4BVu" name="IRConvolve" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0">
   <MAINGROUP id="Mqbfo9" name="IRConvolve">
     <GROUP id="{0815FE85-DF2F-BDAA-35AD-F9C1E2A8A3C0}" name="Source">
       <FILE id="Q3IDAd" name="PluginProcessor.cpp" compile="1" resource="0"

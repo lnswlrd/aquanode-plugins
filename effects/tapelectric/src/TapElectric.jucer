@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="SFhbOM" name="TapElectric" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0">
   <MAINGROUP id="ZpTktJ" name="TapElectric">
     <GROUP id="{0D273E34-F98D-FF7E-4C64-28DA8099F4EF}" name="Source">
       <FILE id="wvJWIy" name="PluginProcessor.cpp" compile="1" resource="0"
