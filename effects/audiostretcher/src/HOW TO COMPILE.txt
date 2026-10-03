@@ -29,18 +29,14 @@ STEP 1: INSTALL JUCE
 - Remember the installation path (default: C:/Program Files/JUCE on Windows)
 - Launch Projucer at least once to set up global paths
 
-STEP 2: EXTRACT RUBBERBAND
-- If RubberBand is not included in the source code bundle:
-  - Download from https://github.com/breakfastquay/rubberband
-  - Extract to a location on your computer
-  - Remember this path (e.g., C:/RubberBand or ~/RubberBand)
+STEP 2: RUBBERBAND
+- RubberBand is included in the Rubberband/ folder next to
+  AudioStretcher.jucer, and the project already points to it
+  (header search path "../../Rubberband", relative to the Builds/<exporter>
+  folder). Nothing to download or configure.
 
-STEP 3: CONFIGURE THE PROJECT
+STEP 3: OPEN THE PROJECT
 - Open AudioStretcher.jucer with Projucer
-- At the top of the file, find the line:
-  PATH_TO_RUBBERBAND_FOLDER = "C:/Program Files/Rubberband"
-- Change this path to where you extracted RubberBand
-- Save the file (Ctrl+S / Cmd+S)
 
 STEP 4: GENERATE PROJECT FILES
 - In Projucer, click "Save Project and Open in IDE"
@@ -88,7 +84,7 @@ TROUBLESHOOTING
 ========================================
 
 ISSUE: "Cannot find RubberBandStretcher.h"
-SOLUTION: Check that PATH_TO_RUBBERBAND_FOLDER in AudioStretcher.jucer points to the correct location
+SOLUTION: Check that the Rubberband/ folder is next to AudioStretcher.jucer and that the exporter's header search path is "../../Rubberband"
 
 ISSUE: "USE_RUBBERBAND is not defined"
 SOLUTION: Make sure the preprocessor definitions include USE_RUBBERBAND=1 in your build configuration

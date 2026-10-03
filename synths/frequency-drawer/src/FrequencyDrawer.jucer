@@ -3,16 +3,16 @@
 <JUCERPROJECT id="bROAqW" name="FrequencyDrawer" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
               companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3"
-              pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn" version="1.0.0" pluginManufacturerCode="AqNd">
+              pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn" version="1.0.0" pluginManufacturerCode="AqNd" pluginCode="Broa">
   <MAINGROUP id="XSMJPz" name="FrequencyDrawer">
     <GROUP id="{6BB24C69-8B55-F3CD-844D-6C37599C7106}" name="Source">
       <FILE id="IfecNR" name="PluginProcessor.cpp" compile="1" resource="0"
-            file="Source/PluginProcessor.cpp"/>
+            file="PluginProcessor.cpp"/>
       <FILE id="bDTo2v" name="PluginProcessor.h" compile="0" resource="0"
-            file="Source/PluginProcessor.h"/>
+            file="PluginProcessor.h"/>
       <FILE id="xO55sm" name="PluginEditor.cpp" compile="1" resource="0"
-            file="Source/PluginEditor.cpp"/>
-      <FILE id="SOH3M2" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+            file="PluginEditor.cpp"/>
+      <FILE id="SOH3M2" name="PluginEditor.h" compile="0" resource="0" file="PluginEditor.h"/>
     </GROUP>
   </MAINGROUP>
   <MODULES>
@@ -50,27 +50,27 @@
                        defines="JUCE_USE_FLAC=1"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
-        <MODULEPATH id="juce_animation" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_basics" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_devices" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_formats" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_plugin_client" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_processors" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_processors_headless" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_utils" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_box2d" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_core" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_data_structures" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_dsp" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_events" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_graphics" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_gui_basics" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_gui_extra" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_javascript" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_midi_ci" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_opengl" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_osc" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_video" path="../../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_animation" path=""/>
+        <MODULEPATH id="juce_audio_basics" path=""/>
+        <MODULEPATH id="juce_audio_devices" path=""/>
+        <MODULEPATH id="juce_audio_formats" path=""/>
+        <MODULEPATH id="juce_audio_plugin_client" path=""/>
+        <MODULEPATH id="juce_audio_processors" path=""/>
+        <MODULEPATH id="juce_audio_processors_headless" path=""/>
+        <MODULEPATH id="juce_audio_utils" path=""/>
+        <MODULEPATH id="juce_box2d" path=""/>
+        <MODULEPATH id="juce_core" path=""/>
+        <MODULEPATH id="juce_data_structures" path=""/>
+        <MODULEPATH id="juce_dsp" path=""/>
+        <MODULEPATH id="juce_events" path=""/>
+        <MODULEPATH id="juce_graphics" path=""/>
+        <MODULEPATH id="juce_gui_basics" path=""/>
+        <MODULEPATH id="juce_gui_extra" path=""/>
+        <MODULEPATH id="juce_javascript" path=""/>
+        <MODULEPATH id="juce_midi_ci" path=""/>
+        <MODULEPATH id="juce_opengl" path=""/>
+        <MODULEPATH id="juce_osc" path=""/>
+        <MODULEPATH id="juce_video" path=""/>
       </MODULEPATHS>
     </VS2026>
   </EXPORTFORMATS>

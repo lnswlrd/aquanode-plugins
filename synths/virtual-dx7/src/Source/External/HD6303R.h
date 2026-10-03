@@ -19,8 +19,8 @@
 #pragma once
 #include <cstdio>
 #include <cstdint>
-// VDX7-Dexed: portable endian (Windows/MSVC has no <endian.h>; all targets little-endian)
-#if defined(_MSC_VER) || defined(_WIN32)
+// VDX7-Dexed: portable endian (Windows/MSVC and macOS have no <endian.h>; all targets little-endian)
+#if defined(_MSC_VER) || defined(_WIN32) || defined(__APPLE__)
   #ifndef __LITTLE_ENDIAN
     #define __LITTLE_ENDIAN 1234
   #endif

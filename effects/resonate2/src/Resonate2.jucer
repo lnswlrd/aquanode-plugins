@@ -8,12 +8,12 @@
   <MAINGROUP id="KkrBs5" name="Resonate2">
     <GROUP id="{7B07D175-44A3-C096-7C4B-F425FC23B08A}" name="Source">
       <FILE id="mm13vQ" name="PluginProcessor.cpp" compile="1" resource="0"
-            file="Source/PluginProcessor.cpp"/>
+            file="PluginProcessor.cpp"/>
       <FILE id="jKWDQx" name="PluginProcessor.h" compile="0" resource="0"
-            file="Source/PluginProcessor.h"/>
+            file="PluginProcessor.h"/>
       <FILE id="bfEvGJ" name="PluginEditor.cpp" compile="1" resource="0"
-            file="Source/PluginEditor.cpp"/>
-      <FILE id="W3Jdgt" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+            file="PluginEditor.cpp"/>
+      <FILE id="W3Jdgt" name="PluginEditor.h" compile="0" resource="0" file="PluginEditor.h"/>
     </GROUP>
   </MAINGROUP>
   <MODULES>
@@ -45,23 +45,23 @@
         <CONFIGURATION isDebug="0" name="Release" targetName="Resonate2" useRuntimeLibDLL="0"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
-        <MODULEPATH id="juce_animation" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_basics" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_devices" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_formats" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_plugin_client" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_processors" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_processors_headless" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_utils" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_box2d" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_core" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_data_structures" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_dsp" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_events" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_graphics" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_gui_basics" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_gui_extra" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_midi_ci" path="../../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_animation" path=""/>
+        <MODULEPATH id="juce_audio_basics" path=""/>
+        <MODULEPATH id="juce_audio_devices" path=""/>
+        <MODULEPATH id="juce_audio_formats" path=""/>
+        <MODULEPATH id="juce_audio_plugin_client" path=""/>
+        <MODULEPATH id="juce_audio_processors" path=""/>
+        <MODULEPATH id="juce_audio_processors_headless" path=""/>
+        <MODULEPATH id="juce_audio_utils" path=""/>
+        <MODULEPATH id="juce_box2d" path=""/>
+        <MODULEPATH id="juce_core" path=""/>
+        <MODULEPATH id="juce_data_structures" path=""/>
+        <MODULEPATH id="juce_dsp" path=""/>
+        <MODULEPATH id="juce_events" path=""/>
+        <MODULEPATH id="juce_graphics" path=""/>
+        <MODULEPATH id="juce_gui_basics" path=""/>
+        <MODULEPATH id="juce_gui_extra" path=""/>
+        <MODULEPATH id="juce_midi_ci" path=""/>
       </MODULEPATHS>
     </VS2026>
   </EXPORTFORMATS>

@@ -6,10 +6,10 @@
               splashScreenColour="Dark" cppLanguageStandard="17" companyEmail="node.aqua@gmail.com">
   <MAINGROUP id="FPIqm4" name="SimpleDAW">
     <GROUP id="{8A7F3C6D-5B6E-8F9A-2D4C-1E3B5A7C9D0F}" name="Source">
-      <FILE id="xB9kL2" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
+      <FILE id="xB9kL2" name="MainComponent.h" compile="0" resource="0" file="MainComponent.h"/>
       <FILE id="pQ3mN8" name="MainComponent.cpp" compile="1" resource="0"
-            file="Source/MainComponent.cpp"/>
-      <FILE id="vR7tY5" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
+            file="MainComponent.cpp"/>
+      <FILE id="vR7tY5" name="Main.cpp" compile="1" resource="0" file="Main.cpp"/>
     </GROUP>
   </MAINGROUP>
   <MODULES>
@@ -47,7 +47,7 @@
         <MODULEPATH id="juce_graphics" path=""/>
         <MODULEPATH id="juce_gui_basics" path=""/>
         <MODULEPATH id="juce_gui_extra" path=""/>
-        <MODULEPATH id="juce_audio_processors_headless" path="../../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors_headless" path=""/>
       </MODULEPATHS>
     </VS2022>
     <XCODE_MAC targetFolder="Builds/MacOSX">
@@ -67,7 +67,7 @@
         <MODULEPATH id="juce_graphics" path=""/>
         <MODULEPATH id="juce_gui_basics" path=""/>
         <MODULEPATH id="juce_gui_extra" path=""/>
-        <MODULEPATH id="juce_audio_processors_headless" path="../../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors_headless" path=""/>
       </MODULEPATHS>
     </XCODE_MAC>
     <LINUX_MAKE targetFolder="Builds/LinuxMakefile">
@@ -87,7 +87,7 @@
         <MODULEPATH id="juce_graphics" path=""/>
         <MODULEPATH id="juce_gui_basics" path=""/>
         <MODULEPATH id="juce_gui_extra" path=""/>
-        <MODULEPATH id="juce_audio_processors_headless" path="../../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors_headless" path=""/>
       </MODULEPATHS>
     </LINUX_MAKE>
   </EXPORTFORMATS>

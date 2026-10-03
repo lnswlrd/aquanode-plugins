@@ -8,22 +8,22 @@
   <MAINGROUP id="uX8KMf" name="AlphaBetaSynth">
     <GROUP id="{FA0F579D-6F89-F73C-EB51-AF29B38C0A65}" name="Source">
       <FILE id="WbUWec" name="Alpha3Import.cpp" compile="1" resource="0"
-            file="Source/Alpha3Import.cpp"/>
-      <FILE id="S5UOpK" name="Alpha3Import.h" compile="0" resource="0" file="Source/Alpha3Import.h"/>
-      <FILE id="RFi7xB" name="CrtMatrix.cpp" compile="1" resource="0" file="Source/CrtMatrix.cpp"/>
-      <FILE id="gtg2S6" name="CrtMatrix.h" compile="0" resource="0" file="Source/CrtMatrix.h"/>
-      <FILE id="q9MEiq" name="InternalWaves.h" compile="0" resource="0" file="Source/InternalWaves.h"/>
-      <FILE id="ylWiwm" name="ModMatrix.h" compile="0" resource="0" file="Source/ModMatrix.h"/>
+            file="Alpha3Import.cpp"/>
+      <FILE id="S5UOpK" name="Alpha3Import.h" compile="0" resource="0" file="Alpha3Import.h"/>
+      <FILE id="RFi7xB" name="CrtMatrix.cpp" compile="1" resource="0" file="CrtMatrix.cpp"/>
+      <FILE id="gtg2S6" name="CrtMatrix.h" compile="0" resource="0" file="CrtMatrix.h"/>
+      <FILE id="q9MEiq" name="InternalWaves.h" compile="0" resource="0" file="InternalWaves.h"/>
+      <FILE id="ylWiwm" name="ModMatrix.h" compile="0" resource="0" file="ModMatrix.h"/>
       <FILE id="jWaJHi" name="PluginEditor.cpp" compile="1" resource="0"
-            file="Source/PluginEditor.cpp"/>
-      <FILE id="vXzkbf" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+            file="PluginEditor.cpp"/>
+      <FILE id="vXzkbf" name="PluginEditor.h" compile="0" resource="0" file="PluginEditor.h"/>
       <FILE id="rp2lEK" name="PluginProcessor.cpp" compile="1" resource="0"
-            file="Source/PluginProcessor.cpp"/>
+            file="PluginProcessor.cpp"/>
       <FILE id="hZHJml" name="PluginProcessor.h" compile="0" resource="0"
-            file="Source/PluginProcessor.h"/>
-      <FILE id="x2RG9m" name="RandomPatch.cpp" compile="1" resource="0" file="Source/RandomPatch.cpp"/>
-      <FILE id="ABhy4r" name="RandomPatch.h" compile="0" resource="0" file="Source/RandomPatch.h"/>
-      <FILE id="eQ4rxK" name="Wavetable.h" compile="0" resource="0" file="Source/Wavetable.h"/>
+            file="PluginProcessor.h"/>
+      <FILE id="x2RG9m" name="RandomPatch.cpp" compile="1" resource="0" file="RandomPatch.cpp"/>
+      <FILE id="ABhy4r" name="RandomPatch.h" compile="0" resource="0" file="RandomPatch.h"/>
+      <FILE id="eQ4rxK" name="Wavetable.h" compile="0" resource="0" file="Wavetable.h"/>
     </GROUP>
   </MAINGROUP>
   <MODULES>
@@ -59,27 +59,27 @@
         <CONFIGURATION isDebug="0" name="Release" targetName="AlphaBetaSynth" useRuntimeLibDLL="0"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
-        <MODULEPATH id="juce_animation" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_basics" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_devices" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_formats" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_plugin_client" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_processors" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_processors_headless" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_utils" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_box2d" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_core" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_data_structures" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_dsp" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_events" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_graphics" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_gui_basics" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_gui_extra" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_javascript" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_midi_ci" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_opengl" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_osc" path="../../../../Program Files/JUCE/modules"/>
-        <MODULEPATH id="juce_video" path="../../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_animation" path=""/>
+        <MODULEPATH id="juce_audio_basics" path=""/>
+        <MODULEPATH id="juce_audio_devices" path=""/>
+        <MODULEPATH id="juce_audio_formats" path=""/>
+        <MODULEPATH id="juce_audio_plugin_client" path=""/>
+        <MODULEPATH id="juce_audio_processors" path=""/>
+        <MODULEPATH id="juce_audio_processors_headless" path=""/>
+        <MODULEPATH id="juce_audio_utils" path=""/>
+        <MODULEPATH id="juce_box2d" path=""/>
+        <MODULEPATH id="juce_core" path=""/>
+        <MODULEPATH id="juce_data_structures" path=""/>
+        <MODULEPATH id="juce_dsp" path=""/>
+        <MODULEPATH id="juce_events" path=""/>
+        <MODULEPATH id="juce_graphics" path=""/>
+        <MODULEPATH id="juce_gui_basics" path=""/>
+        <MODULEPATH id="juce_gui_extra" path=""/>
+        <MODULEPATH id="juce_javascript" path=""/>
+        <MODULEPATH id="juce_midi_ci" path=""/>
+        <MODULEPATH id="juce_opengl" path=""/>
+        <MODULEPATH id="juce_osc" path=""/>
+        <MODULEPATH id="juce_video" path=""/>
       </MODULEPATHS>
     </VS2026>
   </EXPORTFORMATS>
