@@ -309,9 +309,13 @@ void AutoMorphEQAudioProcessor::processBlock(juce::AudioBuffer<float>& buffer, j
     juce::dsp::AudioBlock<float> block(buffer);
     for (int i = 0; i < 7; ++i)
     {
-        filters[i].filterLeft.process(juce::dsp::ProcessContextReplacing<float>(block.getSingleChannelBlock(0)));
+        auto leftBlock = block.getSingleChannelBlock(0);
+        filters[i].filterLeft.process(juce::dsp::ProcessContextReplacing<float>(leftBlock));
         if (totalNumInputChannels > 1)
-            filters[i].filterRight.process(juce::dsp::ProcessContextReplacing<float>(block.getSingleChannelBlock(1)));
+        {
+            auto rightBlock = block.getSingleChannelBlock(1);
+            filters[i].filterRight.process(juce::dsp::ProcessContextReplacing<float>(rightBlock));
+        }
     }
 
     bool wetOnly = apvts.getRawParameterValue("wet_only")->load() > 0.5f;

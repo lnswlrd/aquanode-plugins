@@ -358,8 +358,8 @@ public:
     void releaseResources() override {}
 
     bool isBusesLayoutSupported(const BusesLayout& layouts) const override {
-        auto& in  = layouts.getMainInputChannelSet();
-        auto& out = layouts.getMainOutputChannelSet();
+        auto in  = layouts.getMainInputChannelSet();
+        auto out = layouts.getMainOutputChannelSet();
         if (out != juce::AudioChannelSet::stereo()) return false;
         if (in  != juce::AudioChannelSet::stereo() &&
             in  != juce::AudioChannelSet::mono())   return false;

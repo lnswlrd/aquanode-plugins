@@ -132,7 +132,7 @@ public:
         while (p + 8 <= mb.getSize()) {
             auto sz = (size_t)((uint8_t)d[p + 4] | ((uint8_t)d[p + 5] << 8) | ((uint8_t)d[p + 6] << 16) | ((uint32_t)(uint8_t)d[p + 7] << 24));
             if (memcmp(d + p, "clm ", 4) == 0 && p + 8 + sz <= mb.getSize()) {
-                juce::String txt(d + p + 8, juce::jmin<size_t>(sz, 64));
+                juce::String txt(d + p + 8, std::min<size_t>(sz, 64));
                 if (txt.startsWith("<!>")) {
                     int fs = txt.substring(3).getIntValue();
                     if (fs >= 16 && fs <= 65536) return fs;

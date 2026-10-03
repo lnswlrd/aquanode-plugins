@@ -241,7 +241,8 @@ void CenterCombAudioProcessor::processBlock(juce::AudioBuffer<float>& buffer, ju
                     {
                         filters[ch][i].coefficients = coeffs;
                         juce::dsp::AudioBlock<float> block(buffer);
-                        juce::dsp::ProcessContextReplacing<float> context(block.getSingleChannelBlock(ch));
+                        auto channelBlock = block.getSingleChannelBlock(ch);
+                        juce::dsp::ProcessContextReplacing<float> context(channelBlock);
                         filters[ch][i].process(context);
                     }
                 }
