@@ -37,10 +37,12 @@ SpectralLatencyAudioProcessor::createParameterLayout()
         "maxLatency", "Max Latency (s)", latencyRange, 1.0f));
 
     // FFT size: 8 choices, default index 5 = 2048
+    // Meta parameter: switching size loads that size's saved curve, which
+    // rewrites the bin parameters below (Audio Units require the flag).
     layout.add (std::make_unique<juce::AudioParameterChoice> (
         "fftSizeIndex", "FFT Size",
         juce::StringArray { "32", "128", "256", "512", "1024", "2048", "4096", "8192" },
-        5));
+        5, juce::AudioParameterChoiceAttributes().withMeta (true)));
 
     // Delay curve bins for FFT size 32 (17 bins: 0-16)
     // Range: -1.0 (earlier) to +1.0 (later), default 0.0 (no delay)

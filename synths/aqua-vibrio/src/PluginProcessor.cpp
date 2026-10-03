@@ -49,9 +49,14 @@ void AquaVibrioProcessor::processBlock (juce::AudioBuffer<float>& buffer, juce::
 
     // Deliberately NOT cleared: the engine reads each input sample for the
     // vocoder and the input follower before writing its own output over it.
-    engine.setSecondOutput (getBusCount (false) > 1 && getBus (false, 1) != nullptr
-                              && getBus (false, 1)->isEnabled()
-                              ? getBusBuffer (buffer, false, 1).getArrayOfWritePointers()
+    // getBusBuffer returns a buffer that only refers to the host's channels.
+    // Keep it alive for the whole render: the engine holds on to its channel
+    // pointer array, which lives inside this object.
+    const bool secondEnabled = getBusCount (false) > 1 && getBus (false, 1) != nullptr
+                               && getBus (false, 1)->isEnabled();
+    auto secondBus = getBusBuffer (buffer, false, secondEnabled ? 1 : 0);
+    engine.setSecondOutput (secondEnabled && secondBus.getNumChannels() >= 2
+                              ? secondBus.getArrayOfWritePointers()
                               : nullptr);
 
     engine.renderBlock (buffer, midi);
