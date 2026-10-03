@@ -3,7 +3,7 @@
 <JUCERPROJECT id="ILw7RA" name="SpectralCompress" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.0"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
-              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginProducesMidiOut,pluginWantsMidiIn">
+              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginProducesMidiOut,pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="rUjgxV" name="SpectralCompress">
     <GROUP id="{7E4ADA89-2900-D677-16B8-F2589AE536D5}" name="Source">
       <FILE id="zQUcKZ" name="PluginProcessor.cpp" compile="1" resource="0"

@@ -3,7 +3,7 @@
 <JUCERPROJECT id="yOdM64" name="Tabla" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.0.0"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
-              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn">
+              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="blLcCV" name="Tabla">
     <GROUP id="{C7D750D2-16FE-47B6-2C95-4DA7954DBB05}" name="Source">
       <FILE id="D9czCt" name="PluginProcessor.cpp" compile="1" resource="0"

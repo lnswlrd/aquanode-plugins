@@ -3,7 +3,7 @@
 <JUCERPROJECT id="Hi0Tbz" name="83ChorusVerb" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.0.0"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
-              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn">
+              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="jKGdj3" name="83ChorusVerb">
     <GROUP id="{BDA23A63-FF45-49A1-D270-EE3A98B1B088}" name="Source">
       <FILE id="zbkqkC" name="PluginProcessor.cpp" compile="1" resource="0"

@@ -4,7 +4,7 @@
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
               companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3"
               version="1.0.0" pluginCharacteristicsValue="pluginWantsMidiIn"
-              pluginCode="GrnF">
+              pluginCode="GrnF" pluginManufacturerCode="AqNd">
   <MAINGROUP id="E51mxR" name="Granulate FX">
     <GROUP id="{718A1FB5-0BC0-FD7B-6978-B3DA0EB580D7}" name="Source">
       <FILE id="y5xYWn" name="PluginEditor.cpp" compile="1" resource="0"

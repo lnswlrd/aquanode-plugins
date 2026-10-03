@@ -3,7 +3,7 @@
 <JUCERPROJECT id="S4uC4R" name="FullFilter" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.0.0"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
-              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn">
+              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="gGG9vC" name="FullFilter">
     <GROUP id="{C6056EF5-7CC5-E18E-847F-735EC5817CFE}" name="Source">
       <FILE id="O8xUM8" name="PluginProcessor.cpp" compile="1" resource="0"

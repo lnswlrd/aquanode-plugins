@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="IXEDB0" name="AlphaBetaFX" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.1">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.1" pluginManufacturerCode="AqNd">
   <MAINGROUP id="ULru2p" name="AlphaBetaFX">
     <GROUP id="{28E7ECA0-FA5F-6B8A-8806-27DF7FFE0297}" name="Source">
       <FILE id="zSptQL" name="PluginProcessor.cpp" compile="1" resource="0"

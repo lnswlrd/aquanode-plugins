@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="FXm4Qa" name="Aquanode Modular FX" projectType="audioplug"
-              useAppConfig="0" pluginName="Aquanode Modular FX" pluginManufacturerCode="Aqnd"
+              useAppConfig="0" pluginName="Aquanode Modular FX" pluginManufacturerCode="AqNd"
               pluginCode="Aqfx" addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1"
               version="4.0" companyName="aquanodemusic" companyCopyright="none"
               companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3"

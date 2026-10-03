@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="aqv6qa" name="LiquidChor" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0" pluginManufacturerCode="AqNd">
   <MAINGROUP id="pz6VZY" name="LiquidChor">
     <GROUP id="{9610CB94-D530-8B4A-6AD7-EB0C9E993414}" name="Source">
       <FILE id="jnTZBn" name="PluginProcessor.cpp" compile="1" resource="0"

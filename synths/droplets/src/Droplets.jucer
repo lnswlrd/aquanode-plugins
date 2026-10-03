@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="Nu3Ouj" name="Droplets" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.1" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.1" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="CeECOt" name="Droplets">
     <GROUP id="{81B29EE1-1B92-2CE1-E6AF-41E3A2517EE5}" name="Source">
       <FILE id="xx6syA" name="PluginProcessor.cpp" compile="1" resource="0"

@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="rDO1xk" name="CepstralIR" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0" pluginManufacturerCode="AqNd">
   <MAINGROUP id="xwnQrS" name="CepstralIR">
     <GROUP id="{2575EC87-A171-AC82-6A6F-CE48478DCB74}" name="Source">
       <FILE id="GFfWd3" name="PluginProcessor.cpp" compile="1" resource="0"

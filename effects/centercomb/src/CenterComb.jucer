@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="6ZyyQY" name="CenterComb" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.1">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.1" pluginManufacturerCode="AqNd">
   <MAINGROUP id="0PjF9c" name="CenterComb">
     <GROUP id="{4A3E3E04-D42F-8AC2-ACAF-127972D33E59}" name="Source">
       <FILE id="5bcuYd" name="PluginProcessor.cpp" compile="1" resource="0"

@@ -4,7 +4,7 @@
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
               companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3"
               version="3.0.0" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn"
-              pluginName="AlphaBeta" pluginCode="AlBe">
+              pluginName="AlphaBeta" pluginCode="AlBe" pluginManufacturerCode="AqNd">
   <MAINGROUP id="uX8KMf" name="AlphaBetaSynth">
     <GROUP id="{FA0F579D-6F89-F73C-EB51-AF29B38C0A65}" name="Source">
       <FILE id="WbUWec" name="Alpha3Import.cpp" compile="1" resource="0"

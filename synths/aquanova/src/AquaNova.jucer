@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="SnVaII" name="AquaNova" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="0" jucerFormatVersion="1"
-              companyName="aquanodemusic" pluginManufacturerCode="Aqnd" pluginCode="Aqnv"
+              companyName="aquanodemusic" pluginManufacturerCode="AqNd" pluginCode="Aqnv"
               pluginFormats="buildVST3,buildStandalone" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn"
               pluginName="AquaNova" pluginDesc="AquaNova polysynth" pluginAUMainType="'aumu'"
               version="1.0.0" cppLanguageStandard="17" companyCopyright="none"

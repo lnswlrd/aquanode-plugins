@@ -5,7 +5,7 @@
               companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3"
               pluginIsSynth="1" pluginWantsMidiIn="1" pluginProducesMidiOut="0"
               pluginVSTCategory="kPlugCategSynth" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn"
-              version="1.2">
+              version="1.2" pluginManufacturerCode="AqNd">
   <MAINGROUP id="BKzTOA" name="Grainfreeze">
     <GROUP id="{11F6EBAB-F5AE-8730-EDF8-12A44AD8742A}" name="Source">
       <FILE id="h15txL" name="PluginEditor.cpp" compile="1" resource="0"

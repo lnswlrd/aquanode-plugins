@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="PeX9Pc" name="SignalControl" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1" pluginManufacturerCode="AqNd">
   <MAINGROUP id="Wb8pm1" name="SignalControl">
     <GROUP id="{0474F36E-8B53-5930-9CC6-273931BDB2A0}" name="Source">
       <FILE id="2A0FgB" name="PluginProcessor.cpp" compile="1" resource="0"

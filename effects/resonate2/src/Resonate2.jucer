@@ -3,7 +3,7 @@
 <JUCERPROJECT id="t63Py2" name="Resonate2" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="3.0"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
-              pluginName="Resonate2" pluginCode="Rs2k" pluginManufacturerCode="AqNm"
+              pluginName="Resonate2" pluginCode="Rs2k" pluginManufacturerCode="AqNd"
               pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn">
   <MAINGROUP id="KkrBs5" name="Resonate2">
     <GROUP id="{7B07D175-44A3-C096-7C4B-F425FC23B08A}" name="Source">

@@ -3,7 +3,7 @@
 <JUCERPROJECT id="vaBkNz" name="SpectralMorph" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.0.0"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
-              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn">
+              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="UGQhy2" name="SpectralMorph">
     <GROUP id="{678619CA-26A1-B821-2576-80326BB83F0D}" name="Source">
       <FILE id="dC9smD" name="PluginProcessor.cpp" compile="1" resource="0"

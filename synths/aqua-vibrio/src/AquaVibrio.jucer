@@ -5,7 +5,7 @@
               companyName="aquanodemusic" companyCopyright="none" version="1.0.0"
               pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn"
               pluginName="Aqua Vibrio" pluginDesc="Virus-architecture synthesiser on Aquanode DSP"
-              pluginManufacturer="Aquanode" pluginManufacturerCode="Aqnd" pluginCode="AqVb"
+              pluginManufacturer="Aquanode" pluginManufacturerCode="AqNd" pluginCode="AqVb"
               pluginVST3Category="Instrument,Synth" pluginAUMainType="'aumu'"
               cppLanguageStandard="17" defines="JUCE_WEB_BROWSER=0&#10;JUCE_USE_CURL=0&#10;JUCE_DISPLAY_SPLASH_SCREEN=0"
               companyEmail="node.aqua@gmail.com">

@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="s2fqmO" name="SpectralEdit" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="9JriOt" name="SpectralEdit">
     <GROUP id="{2545A102-186D-0F99-F7C9-E215EDFE6A4A}" name="Source">
       <FILE id="3TuU3w" name="PluginProcessor.cpp" compile="1" resource="0"

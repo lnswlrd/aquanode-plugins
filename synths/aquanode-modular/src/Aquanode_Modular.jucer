@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="GZWYPf" name="Aquanode Modular" projectType="audioplug" useAppConfig="0"
-              pluginName="Aquanode Modular" pluginManufacturerCode="Aqnd" pluginCode="Aqmo"
+              pluginName="Aquanode Modular" pluginManufacturerCode="AqNd" pluginCode="Aqmo"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="4.0"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
               pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn">

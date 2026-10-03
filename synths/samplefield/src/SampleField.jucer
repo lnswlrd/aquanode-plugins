@@ -3,7 +3,7 @@
 <JUCERPROJECT id="PPT3aB" name="SampleField" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.1"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
-              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn">
+              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="wEQDHL" name="SampleField">
     <GROUP id="{22BF31F2-66AE-19D9-18F2-D6103965E6BB}" name="Source">
       <FILE id="PXTP9C" name="PluginProcessor.cpp" compile="1" resource="0"

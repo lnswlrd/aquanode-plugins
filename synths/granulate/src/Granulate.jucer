@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="Ipt9ZY" name="Granulate" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.4" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.4" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="E51mxR" name="Granulate">
     <GROUP id="{EE9CD564-81FB-3392-58E4-D27EB0D1CB7C}" name="Source">
       <FILE id="fxobu7" name="PluginProcessor.cpp" compile="1" resource="0"

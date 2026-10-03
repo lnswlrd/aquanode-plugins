@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="poevbL" name="PitchControl" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="2.0.1">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="2.0.1" pluginManufacturerCode="AqNd">
   <MAINGROUP id="JoLoae" name="PitchControl">
     <GROUP id="{1721A278-F64F-7FD6-33DB-DDE131CA3766}" name="Source">
       <FILE id="ICiBlr" name="PluginProcessor.cpp" compile="1" resource="0"

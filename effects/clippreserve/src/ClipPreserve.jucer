@@ -3,7 +3,7 @@
 <JUCERPROJECT id="SMEeXX" name="ClipPreserve" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.1"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
-              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn">
+              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="fHoX3s" name="ClipPreserve">
     <GROUP id="{D5F74E0A-9C3A-000D-020D-FB150840B437}" name="Source">
       <FILE id="UEt1VY" name="PluginProcessor.cpp" compile="1" resource="0"

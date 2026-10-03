@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="odgAvT" name="SpectralCompare" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="3.0">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="3.0" pluginManufacturerCode="AqNd">
   <MAINGROUP id="EgRXia" name="SpectralCompare">
     <GROUP id="{5DFF69A9-1271-5D51-CF59-1093A9EF4E86}" name="Source">
       <FILE id="ZhvkUD" name="PluginProcessor.cpp" compile="1" resource="0"

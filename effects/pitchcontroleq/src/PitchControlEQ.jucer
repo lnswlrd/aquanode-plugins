@@ -3,7 +3,7 @@
 <JUCERPROJECT id="LbjsIy" name="PitchControlEQ" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="3"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
-              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn">
+              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="xs4OLV" name="PitchControlEQ">
     <GROUP id="{DA3584E9-EFDB-8955-8F04-58BDE4DF89FF}" name="Source">
       <FILE id="Uf9VWq" name="PluginProcessor.cpp" compile="1" resource="0"

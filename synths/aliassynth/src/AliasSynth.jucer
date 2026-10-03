@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="2Q96M3" name="AliasSynth" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0.0" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="jvfLQj" name="AliasSynth">
     <GROUP id="{B9C429CA-42DB-0B95-6AF6-7442931A4C45}" name="Source">
       <FILE id="l1SXNZ" name="PluginProcessor.cpp" compile="1" resource="0"

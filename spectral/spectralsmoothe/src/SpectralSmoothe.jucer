@@ -3,7 +3,7 @@
 <JUCERPROJECT id="eOSXno" name="SpectralSmoothe" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.0.0"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
-              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn">
+              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="U47d2e" name="SpectralSmoothe">
     <GROUP id="{3AF501CD-3D3D-4CA6-9792-7D008471293B}" name="Source">
       <FILE id="UlTqin" name="PluginProcessor.cpp" compile="1" resource="0"

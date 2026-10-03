@@ -3,7 +3,7 @@
 <JUCERPROJECT id="Va6i3O" name="EcoSee" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.1"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
-              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn">
+              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="BeFEVy" name="EcoSee">
     <GROUP id="{5D3ADEEF-7FF6-85AA-2459-E2E678C84D8E}" name="Source">
       <FILE id="OlIyyh" name="PluginProcessor.cpp" compile="1" resource="0"

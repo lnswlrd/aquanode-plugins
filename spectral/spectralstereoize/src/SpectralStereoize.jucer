@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="8y3NAp" name="SpectralStereoize" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.1">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.1" pluginManufacturerCode="AqNd">
   <MAINGROUP id="935k0u" name="SpectralStereoize">
     <GROUP id="{A65FEF9F-02CE-76B1-19FF-903D48BCB1C1}" name="Source">
       <FILE id="KJmxJs" name="PluginProcessor.cpp" compile="1" resource="0"

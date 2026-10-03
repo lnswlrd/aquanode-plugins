@@ -5,7 +5,7 @@
               bundleIdentifier="com.virtualdx7" cppLanguageStandard="17" defines="INLINE_EGS=1;VDX7_USE_MTS_ESP=1"
               displaySplashScreen="0" pluginFormats="buildVST3,buildStandalone"
               pluginName="VirtualDX7" pluginDesc="6-OP FM Synth: Bit-accurate DX7 emulation with a ROM-free native engine"
-              pluginManufacturer="aquanodemusic" pluginManufacturerCode="vdx7"
+              pluginManufacturer="aquanodemusic" pluginManufacturerCode="AqNd"
               pluginCode="vdx7" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn"
               pluginVST3Category="Instrument,Synth" pluginVSTCategory="kPlugCategSynth"
               aaxIdentifier="com.virtualdx7" useAppConfig="1" addUsingNamespaceToJuceHeader="0"

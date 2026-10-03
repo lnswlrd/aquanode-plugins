@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="OhbVrp" name="EQResonator" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.1">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.1" pluginManufacturerCode="AqNd">
   <MAINGROUP id="oiVgRV" name="EQOctaveResonator">
     <GROUP id="{2D102670-6D7E-805D-A846-A32C3BB81E3C}" name="Source">
       <FILE id="fJs1ON" name="PluginProcessor.cpp" compile="1" resource="0"

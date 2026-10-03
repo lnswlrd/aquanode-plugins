@@ -3,7 +3,7 @@
 <JUCERPROJECT id="fIfu0r" name="VirtualK5" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.0.0"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
-              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn">
+              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="LG4094" name="VirtualK5">
     <GROUP id="{15453E1D-EB67-EEB7-6D66-151DB9BE0723}" name="Source">
       <FILE id="Pug1qx" name="PluginProcessor.cpp" compile="1" resource="0"

@@ -3,7 +3,7 @@
 <JUCERPROJECT id="m82TBR" name="NoteAdder" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="3.141592653"
               companyName="aquanodemusic" companyCopyright="GNU GPL v3" companyEmail="node.aqua@gmail.com"
-              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn">
+              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="NplqZW" name="NoteAdder">
     <GROUP id="{344D762B-326B-8A73-A898-AB326E9577CA}" name="Source">
       <FILE id="fh5E5D" name="PluginProcessor.cpp" compile="1" resource="0"

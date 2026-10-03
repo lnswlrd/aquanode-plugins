@@ -3,7 +3,7 @@
 <JUCERPROJECT id="LVl8zq" name="FlowEQ" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.0.0"
               companyName="aquanodemusic" companyCopyright="none" companyEmail="node.aqua@gmail.com"
-              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn">
+              pluginFormats="buildStandalone,buildVST3" pluginCharacteristicsValue="pluginWantsMidiIn" pluginManufacturerCode="AqNd">
   <MAINGROUP id="r4Bgkv" name="FlowEQ">
     <GROUP id="{07ECCCA2-02AC-2A6F-3B85-F8AB74BC90BE}" name="Source">
       <FILE id="WlsqyK" name="PluginProcessor.cpp" compile="1" resource="0"

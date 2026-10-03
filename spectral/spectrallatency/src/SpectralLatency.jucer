@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="l1XRDS" name="SpectralLatency" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.0" pluginManufacturerCode="AqNd">
   <MAINGROUP id="EOlZie" name="SpectralLatency">
     <GROUP id="{E196161A-9CF8-169B-1A83-BDCECA5FFB82}" name="Source">
       <FILE id="UBfBM0" name="PluginProcessor.cpp" compile="1" resource="0"

@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="NRpF6L" name="anyFM" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.2.0">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.2.0" pluginManufacturerCode="AqNd">
   <MAINGROUP id="joDOqD" name="anyFM">
     <GROUP id="{80E952EB-9D8E-96CF-37CB-990C801F97B7}" name="Source">
       <FILE id="OmNqRW" name="PluginProcessor.cpp" compile="1" resource="0"

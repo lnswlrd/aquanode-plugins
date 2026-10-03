@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="dTiHnJ" name="SpectralGate" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="2.0">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="2.0" pluginManufacturerCode="AqNd">
   <MAINGROUP id="uQEHyu" name="SpectralGate">
     <GROUP id="{5EAB8F67-8979-96FA-FB89-3CCB49192BE8}" name="Source">
       <FILE id="VEnm0I" name="PluginProcessor.cpp" compile="1" resource="0"

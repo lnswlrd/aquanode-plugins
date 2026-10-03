@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="aDNKge" name="PrecisionUtility" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.1">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="1.1" pluginManufacturerCode="AqNd">
   <MAINGROUP id="InGqi7" name="PrecisionUtility">
     <GROUP id="{B27B95E9-0934-8334-896A-68F812D810A4}" name="Source">
       <FILE id="OqkVCJ" name="PluginProcessor.cpp" compile="1" resource="0"

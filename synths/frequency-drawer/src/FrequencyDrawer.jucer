@@ -3,7 +3,7 @@
 <JUCERPROJECT id="bROAqW" name="FrequencyDrawer" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
               companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3"
-              pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn" version="1.0.0">
+              pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn" version="1.0.0" pluginManufacturerCode="AqNd">
   <MAINGROUP id="XSMJPz" name="FrequencyDrawer">
     <GROUP id="{6BB24C69-8B55-F3CD-844D-6C37599C7106}" name="Source">
       <FILE id="IfecNR" name="PluginProcessor.cpp" compile="1" resource="0"

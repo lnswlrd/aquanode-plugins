@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="CcU36w" name="SpectralFilter" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="aquanodemusic"
-              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="2.1.1">
+              companyCopyright="none" companyEmail="node.aqua@gmail.com" pluginFormats="buildStandalone,buildVST3" version="2.1.1" pluginManufacturerCode="AqNd">
   <MAINGROUP id="NBrOY8" name="SpectralFilter">
     <GROUP id="{12CB504E-1427-BBC1-4EBB-E24BCA87305F}" name="Source">
       <FILE id="Hy6Jhq" name="PluginProcessor.cpp" compile="1" resource="0"
