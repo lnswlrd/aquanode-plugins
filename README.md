@@ -1,3 +1,8 @@
+> This fork is for offering Mac ports. The original readme by Aquanode will follow below.
+
+___
+
+
 # Aquanode Plugins
 
 Aquanode Plugins is a large collection of VST3 audio plugins written in JUCE / C++ with the help of Claude AI.
